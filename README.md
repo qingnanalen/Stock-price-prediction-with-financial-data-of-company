@@ -1,10 +1,5 @@
 # Stock-price-prediction-with-financial-data-of-company  
-This project is a group project for ECSE 552 at McGill University.    
-Authors: 
-  **Qingnan Li,
-  Tony Xu,
-  Manas Manoj Bedekar,
-  Sansitha Panchadsaram**.    
+This project is a group project for ECSE 552 at McGill University.     
 The project including dataset preparation and models implementation. The dataset of financial data of more than 2000 companies are in **"main.csv"**.    
 You can access the file with the given link here: **https://drive.google.com/file/d/1Um4BCBiIkHRkKhDcNJLuFKZDsjHcX5C_/view?usp=drive_link**    
 The jupyter notebook file **"MarketPredictor(1).ipynb"** has the code for data preprocessing and postprocessing, models implementation, models training, and models validation. We have investigated a comparative study on MLP, LSTM, LSTM with attention mechanism(AM), CNN_BiLSTM_AM, and Bi_LSTM.    
